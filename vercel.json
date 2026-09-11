@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/lettered/:file*",
+      "destination": "https://raw.githubusercontent.com/pseudotop/one-face-ep001-review/master/lettered/:file*"
+    }
+  ]
+}
