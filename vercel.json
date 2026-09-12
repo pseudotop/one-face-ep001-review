@@ -1,8 +1,5 @@
 {
   "rewrites": [
-    {
-      "source": "/lettered/:file*",
-      "destination": "https://cdn.jsdelivr.net/gh/pseudotop/one-face-ep001-review@master/lettered/:file*"
-    }
+    { "source": "/lettered/:file*", "destination": "/canvas/:file*" }
   ]
 }
